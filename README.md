@@ -33,7 +33,7 @@ This repository contains installers and scripts for all major platforms in the `
 
 ### 🪟 Windows
 
-1. [![Download ZIP](https://img.shields.io/badge/Download_Project_ZIP-ff0066?style=for-the-badge&logo=github)](https://github.com/shubhambelbase/StreamHunter-Pro/releases/download/windows/windows.zip)
+1. [![Download ZIP](https://img.shields.io/badge/Download_Project_ZIP-ff0066?style=for-the-badge&logo=github)](https://github.com/shubhambelbase/StreamHunter-Pro/releases/download/windows2.1/StreamHunterPro.exe)
 
 2.  Run the `StreamHunterPro.exe` (if available) or build it using the provided `setup_script.iss`.
 3.  **Requirement**: [VLC Media Player (64-bit)](https://www.videolan.org/vlc/) must be installed.
@@ -91,4 +91,5 @@ pyinstaller StreamHunterPro.spec
 
 **Developed with 💙 using Python & CustomTkinter.**
 *Vibe Coded for maximum performance and aesthetic.*
+
 
